@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-ip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosmeCristiano11/EXERCICIO-IP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CosmeCristiano11/EXERCICIO-IP/issues"
+  },
+  "homepage": "https://github.com/CosmeCristiano11/EXERCICIO-IP#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
